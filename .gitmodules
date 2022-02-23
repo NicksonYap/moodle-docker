@@ -1,0 +1,3 @@
+[submodule "moodle-php-apache"]
+	path = moodle-php-apache
+	url = https://github.com/NicksonYap/moodle-php-apache.git
